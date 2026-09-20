@@ -1,5 +1,14 @@
 <div align="center">
 
+<a href="https://www.jmdeducation.co.in/">
+  <img src="jmd-education-banner.png.png" width="100%" alt="JMD Education Worldwide - MBBS Abroad">
+</a>
+
+</div>
+
+<br>
+<div align="center">
+
 # 🎓 JMD EDUCATION WORLDWIDE
 
 ### 🌍 Your Trusted Partner for MBBS Abroad
